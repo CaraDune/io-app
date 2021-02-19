@@ -1317,7 +1317,7 @@ messages:
     deselectAll: Nessuno
     payment:
       expired: Pagamento scaduto
-      paid: Questo avviso è stato pagato. Visualizza la ricevuta nel tuo
+      paid: Questo avviso è stato già pagato!
       addMemo:
         block1: Aggiungi un promemoria per il
         block2: alle
